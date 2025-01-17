@@ -1,0 +1,10 @@
+.Head{
+    color: white;
+    padding: 2%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: xx-large;
+    font-weight: bold;
+    background-color: rgb(48, 47, 47);
+}
